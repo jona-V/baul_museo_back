@@ -4,4 +4,4 @@ export const MONGODB_URI = process.env.MONGODB_URI || "mongodb+srv://jonathanbj:
 
 export const TOKEN_SECRET = process.env.TOKEN_SECRET || "secret";
 
-export const FRONTEND_URL = process.env.FRONTEND_URL || "https://baulmuseofront.up.railway.app"; //"http://localhost:5173"; //aqui va la direccion de la aplicacion como tal
+export const FRONTEND_URL = process.env.FRONTEND_URL || "https://baulmuseo.up.railway.app"; //"http://localhost:5173"; //aqui va la direccion de la aplicacion como tal
